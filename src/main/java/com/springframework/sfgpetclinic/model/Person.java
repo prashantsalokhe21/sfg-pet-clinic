@@ -8,9 +8,9 @@ package com.springframework.sfgpetclinic.model;
  *
  */
 public class Person {
-	
+
 	private String firstName;
-	
+
 	private String lastName;
 
 	public String getFirstName() {
@@ -28,6 +28,4 @@ public class Person {
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
 	}
-	
-	
 }
