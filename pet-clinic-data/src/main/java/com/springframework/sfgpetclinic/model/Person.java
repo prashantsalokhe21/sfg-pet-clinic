@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.springframework.sfgpetclinic;
+package com.springframework.sfgpetclinic.model;
 
 /**
  * @author lenovo
