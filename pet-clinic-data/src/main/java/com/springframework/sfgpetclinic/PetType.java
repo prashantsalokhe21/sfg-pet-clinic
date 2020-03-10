@@ -1,5 +1,8 @@
-package com.springframework.sfgpetclinic.model;
-
+package com.springframework.sfgpetclinic;
+/**
+ * @author lenovo
+ *
+ */
 public class PetType {
 	
 	private String name;
