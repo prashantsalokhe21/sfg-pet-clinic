@@ -1,4 +1,4 @@
-# Spring Framework Guru Pet Clinic
+# Spring Framework Pet Clinic Application
 This repo is for my online course called Spring Framework 5: Beginner to Guru.
 
 Contained in this repo is an opinionated version of the classic reference application - Spring Pet Clinic
