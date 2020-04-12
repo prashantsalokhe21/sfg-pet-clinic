@@ -3,16 +3,9 @@
  */
 package com.springframework.sfgpetclinic.services.map;
 
-import static org.mockito.Mockito.RETURNS_MOCKS;
-
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.NoSuchElementException;
-import java.util.Set;
-
 import com.springframework.sfgpetclinic.model.BaseEntity;
+
+import java.util.*;
 
 /**
  * @author lenovo
